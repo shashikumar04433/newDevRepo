@@ -1,0 +1,11 @@
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+*.vagrant
+vagrant.log
+*.DS_Store
+deploy_key
+node_modules
+package-lock.json
